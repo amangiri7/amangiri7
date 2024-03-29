@@ -12,7 +12,7 @@
 
 ## 📫 Contact
 
-You can reach out to me via [LinkedIn](https://www.linkedin.com/in/aman-giri-6b3a3b284/).
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/giriaman/).
 Feel free to explore my GitHub repositories for more projects and reach out if you have any questions or collaboration ideas.
 I'm always open to connecting with fellow developers and tech enthusiasts!
 
